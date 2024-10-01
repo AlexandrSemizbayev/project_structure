@@ -1,0 +1,1 @@
+export const destinationFolderSrc = `${process.cwd()}/this_project`;
